@@ -1,0 +1,5 @@
+__pycache__/
+your_results/
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm

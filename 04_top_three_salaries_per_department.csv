@@ -1,0 +1,25 @@
+department_name,employee_id,employee_name,annual_salary_usd,salary_rank
+Finance,118,Employee 118,124000,1
+Finance,136,Employee 136,119000,2
+Finance,193,Employee 193,119000,2
+Finance,44,Employee 044,115000,3
+Finance,46,Employee 046,115000,3
+Human Resources,192,Employee 192,130000,1
+Human Resources,30,Employee 030,126000,2
+Human Resources,171,Employee 171,121000,3
+Information Technology,110,Employee 110,127000,1
+Information Technology,182,Employee 182,126000,2
+Information Technology,185,Employee 185,123000,3
+Information Technology,198,Employee 198,123000,3
+Marketing,138,Employee 138,129000,1
+Marketing,179,Employee 179,129000,1
+Marketing,195,Employee 195,127000,2
+Marketing,80,Employee 080,124000,3
+Operations,148,Employee 148,130000,1
+Operations,93,Employee 093,129000,2
+Operations,76,Employee 076,126000,3
+Operations,161,Employee 161,126000,3
+Sales,102,Employee 102,122000,1
+Sales,153,Employee 153,122000,1
+Sales,56,Employee 056,119000,2
+Sales,13,Employee 013,113000,3

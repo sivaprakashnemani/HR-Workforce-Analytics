@@ -1,0 +1,11 @@
+{
+  "integrity_ok": true,
+  "foreign_keys_valid": true,
+  "employees_200": true,
+  "active_160": true,
+  "exited_40": true,
+  "reviews_within_employment": true,
+  "all_ten_analyses_executed": true,
+  "headcount_rollforward": true,
+  "sql_rebuild_matches_database": true
+}
